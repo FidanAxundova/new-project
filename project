@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="./style.css"
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+    <header>
+        <nav>
+            <div class = "logo">
+                <img src="./svgs/logo.svg"  alt="logo">
+                
+
+            </div>
+
+            <div class="linkler">
+                <a href="#">Home</a>
+                <a href="#">Project</a>
+                <a href="#">Experience</a>
+                <a href="#">Contact</a>
+
+            
+            </div>
+        </nav>
+
+
+    </header>
+    <section>
+        <div class="birinci-hisse">
+           <img src="./svgs/profilphoto.svg" alt="profilphoto">
+           <h3>I do code and <br> make content <span> about it!</span></h3>
+           <p>
+            I am a seasoned full-stack software engineer with over<br> 
+            8 years of professional experience, specializing in backend development.<br>  
+            My expertise lies in crafting robust and scalable SaaS-based <br>
+            architectures on the Amazon AWS platform.
+           </p>
+
+           <div class="butonlar">
+
+            <button>Get In Touch </button>
+            <button>Download CV</button>
+
+
+           </div>
+          
+
+
+
+        </div>
+
+        <div class="ikinci-hisse">
+
+            <p>EXPERIENCE WITH</p>
+            <div class="logolar">
+                <img src="./svgs/jsicon.svg" alt="js">
+                <img src="./svgs/nodejsicon.svg" alt="node">
+                <img src="./svgs/htmlicon.svg" alt="ht">
+                <img src="./svgs/cssicon.svg" alt="css">
+                <img src="./svgs/react.svg" alt="react">
+            </div>
+        </div>
+        
+<div class="ucuncu-hisse">
+    <h1>Project</h1>
+    <div class="qutular">
+        <div class="qutu">
+
+            <div class="ust-hisse">
+                <img src="./svgs/qutu.image.svg" alt="image">
+            </div>
+
+            <div class="alt-hisse">
+                <div class="yazilar-hisse">
+                    <p>CLICK HERE TO VISIT</p>
+                    <h6>HTML TUTORIAL</h6>
+                </div>
+                <img src="./svgs/aronicon.svg" alt="arrow">
+            </div>
+
+
+        </div>
+
+        <div class="qutu">
+            <div class="ust-hisse">
+                <img src="./svgs/qutu2.svg" alt="image">
+            </div>
+
+            <div class="alt-hisse">
+                <div class="yazilar-hisse">
+                    <p>CLICK HERE TO VISIT</p>
+                    <h6>CSS TUTORIAL</h6>
+                </div>
+                <img src="./svgs/aronicon.svg" alt="arrow">
+            </div>
+
+
+        </div>
+    </div>
+    
+        </div>
+        
+
+    <div class="dorduncu-hisse">
+        <h1>Experience</h1>
+        
+        <div class="melumatlar-qutular">
+            <div class="melumat-qutu">
+                <div class="ust-hisse">
+                    <div class="sol-teref">
+                        <img src="./svgs/google.svg" alt="google">
+                        <h4>Lead Software Engineer at Google</h4>
+
+                    </div>
+                    <div class="sag-teref">
+                        <spana>Nov 2019 - Present</spana>
+                    </div>
+
+                </div>
+
+                <div class="ashagi-hisse">
+                    <p>As a Senior Software Engineer at Google, I played a pivotal role in developing innovative solutions for Google's core search algorithms. Collaborating with a dynamic team of engineers, I contributed to the enhancement of search accuracy and efficiency, optimizing user experiences for millions of users worldwide.</p>
+
+
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="dorduncu-hisse">
+        
+        
+        <div class="melumatlar-qutular">
+            <div class="melumat-qutu">
+                <div class="ust-hisse">
+                    <div class="sol-teref">
+                        <img src="./svgs/apple.svg" alt="apple">
+                        <h4>Junior Software Engineer at Apple</h4>
+
+                    </div>
+                    <div class="sag-teref">
+                        <spana>Jan 2016 - Dec 2017</spana>
+                    </div>
+
+                </div>
+
+                <div class="ashagi-hisse">
+                    <p>During my tenure at Apple, I held the role of Software Architect, where I played a key role in shaping the architecture of mission-critical software projects. Responsible for designing scalable and efficient systems, I provided technical leadership to a cross-functional team.</p>
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="dorduncu-hisse">
+        
+        
+        <div class="melumatlar-qutular">
+            <div class="melumat-qutu">
+                <div class="ust-hisse">
+                    <div class="sol-teref">
+                        <img src="./svgs/meta.svg" alt="meta">
+                        <h4>Software Engineer at Metae</h4>
+
+                    </div>
+                    <div class="sag-teref">
+                        <spana>Jan 2017 - Oct 2019</spana>
+                    </div>
+
+                </div>
+
+                <div class="ashagi-hisse">
+                    <p>At Meta, I served as a  Software Engineer, focusing on the design and implementation of backend systems for the social media giant's dynamic platform. Working on projects that involved large-scale data processing and user engagement features, I leveraged my expertise to ensure seamless functionality and scalability.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="bewinci-hisse">
+        <h1>Contact</h1>
+        <div class="yazi-hisse">
+            <h3>Seasoned Full Stack Software Engineer with over 8 years of hands-on experience in designing
+                and implementing robust, scalable, and innovative web solutions. Adept at leveraging a
+                comprehensive skill set encompassing front-end and back-end technologies </h3>
+                
+                <div class="ashagi-hisse">
+                    <div class="sol-teref">
+                        <img src="./svgs/pocta.svg" alt="pocta">
+                        <span>abmcodehub@gmail.com</span>
+                    </div>
+              
+                    
+                
+
+                    
+
+                 
+                </div>
+        </div>
+
+
+    </div>
+    </section>
+    <footer> 
+        <div class="son-hisse">
+            <div class="info">
+                <img src="./svgs/insta.svg" alt="insta">
+                <img src="./svgs/x.svg" alt="x">
+          
+                <img src="./svgs/youtube.svg" alt="youtube">
+            </div>
+        
+               
+           
+            
+            
+            
+
+    
+    </footer>
+</body>
+</html>
